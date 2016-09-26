@@ -13,7 +13,6 @@ public class Main {
 		System.out.println("hello 1");
 		System.out.println("Hello 2");
 		System.out.println("Hello 3");
-		System.out.println("afbvvvf");
 		System.out.println("new test");
 		
 	}
