@@ -5,6 +5,7 @@ public class Data {
 	
 	public void display(){
 		System.out.println("To do implement data display");
+		System.out.println("Hello Xuan 2019");
 	}
 
 }
